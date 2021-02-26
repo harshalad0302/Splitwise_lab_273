@@ -60,7 +60,7 @@ var Login_logout = function (_React$Component) {
                 )
             );
         }
-    }]);
+ }]);
 
     return Login_logout;
 }(React.Component);
